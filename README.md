@@ -2,9 +2,9 @@
 This Jupyter Notebook file performs a machine learning model using linear regression and gradient descent algorithms. The model is trained on a single feature using dummy data.
 
 ## Dependencies
-- numpy
-- pandas
-- matplotlib
+- `numpy`
+- `pandas`
+- `matplotlib`
 
 ## Usage
 To run this Jupyter Notebook file, make sure you have the required dependencies installed. Then, open the file in Jupyter Notebook and run each cell in sequence. You can modify the code as needed to experiment with different parameters and see how they affect the model's performance.
