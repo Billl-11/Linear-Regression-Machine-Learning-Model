@@ -11,3 +11,4 @@ To run this Jupyter Notebook file, make sure you have the required dependencies 
 
 Note
 The dummy data used in this notebook is provided for demonstration purposes only. The model's accuracy may not be representative of its performance on real-world data.
+For more readable format [click here](https://www.google.com "Google's Homepage")
